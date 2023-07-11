@@ -39,12 +39,3 @@ if vot_on:
 else:
     print("Унікальний символ не знайдено.")
 
-# for letter in char_count:
-#     if char_count[letter] == 1:
-#         unique_chars.append(letter)
-
-x ={9, 8, 7, 6, 9, 5, 7, 8, 6, 5}
-print(type(x))
-
-y = list(range(5000, 5005))
-print(y)
