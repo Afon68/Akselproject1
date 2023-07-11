@@ -1,2 +1,2 @@
 # Akselproject1
-for example for me
+for example to me
